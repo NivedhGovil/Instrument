@@ -14,7 +14,7 @@ The first step is to switch the instrument on. Then, you can press any sensor on
 
 <li> Syntha.py: The Micropython code used to program Syntha </li>
 <li> JOURNAL.md: A journal/documentation of the build process</li>
-<li> Wiring.png: A picture of the Wiring </li>
+<li> Schematic.png: A picture of the Wiring </li>
 
 
 # The future plan
