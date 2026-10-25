@@ -1,11 +1,14 @@
 # Syntha - My own music instrument
 
 
-This is Syntha, a music instrument I have built. 
+This is Syntha, a music instrument I have built. <br> 
 
+<img width="587" height="333" alt="image" src="https://github.com/user-attachments/assets/38fa3f77-629f-4df6-aff6-67b7523de1cb" />
 
 # How it works
-The first step is to switch the instrument on. Then, you can press any sensor on the Touch module, which links to the buzzer and led. On pressing it, the buzzer plays a distinct note and 
+The first step is to switch the instrument on. Then, you can press any sensor on the Touch module, which links to the buzzer and led. On pressing it, the buzzer plays a distinct note and the light glows. 
+
+
 
 # In this repository
 
